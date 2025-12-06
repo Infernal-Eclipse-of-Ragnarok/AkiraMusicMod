@@ -1,0 +1,26 @@
+Replaces some of the music in the game with some custom tracks from various artists. 
+Each track replacement is configurable.
+
+The follwoing themes are replaced:
+	- Forest Day (Weavers - Sakuzyo)
+	- Forest Night (Unconscious - Sakuzyo)
+	- Jungle (Marshland - Sakuzyo)
+	- Evil Surface (Rotten Forest - Sakuzyo)
+	- Space (Floating - Sakuzyo)
+	- Town Day (Safe Haven - Yoko Shimomura)
+	- Town Night (Safe Haven - Orvynx ft. Yoko Shimomura)
+	- Boss 1 (Instinct - Sakuzyo)
+	- Mech Bosses (War Without Reason - Heaven Pierce Her)
+	- Plantera (Neurotoxin - Sakuzyo)
+	- Jungle Temple (Star Of The Show - NoLongerNull)
+	- Lunar Pillars (Dark Fountain (Titan Spawn) - fluffyhairs & Toby Fox)
+	- Moon Lord (GAURDIAN - Toby Fox)
+
+The following themes are added: 
+	- Infernal Eclipse of Ragnarok Menu (Teardrops of Dragonfire - Peter Fung)
+	- Mutant Interlude (Axion - Sakuzyo)
+	- Soul of Eternity Interlude (End of Story - Sakuzyo)
+
+This mod also adds the Infernal Eclipse of Ragnarok menu theme by it self if you don't have it on.
+
+Special thanks to nobody for the menu assets, Advantaje for coding the DAYBREAK support for this mod, and Javyz as a lot of the code in this mod is refactored from the Javyz' Fargo Music DLC mod, and each of the composers of the tracks above!

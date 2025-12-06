@@ -1,0 +1,113 @@
+Configs: {
+	MusicConfig: {
+		VanillaCalamityWoF: {
+			Label: Prioritize Vanilla Calamity Music for Wall of Flesh
+			Tooltip:
+				'''
+				Plays Fated Insurrection instead of One's Ending, Another's Beginning if you have both Vanilla Calamity Mod Music & Infernum Mode Music enabled
+				This setting does nothing if you don't have both of the mods mentioned above enabled
+				'''
+		}
+
+		DisplayName: Music Config
+
+		DukeFishron: {
+			Label: Duke Fishron
+			Tooltip: Replaces Duke Fishron's music with Sewer Creature from Pressure
+		}
+
+		Pillars: {
+			Label: Pillars
+			Tooltip: Replaces the Luanr Pillar music with Dark Fountain (Titan Spawn) by fluffyhairs & Toby Fox
+		}
+
+		Headers: {
+			Biomes: Biome Music
+			Bosses: Boss Music
+			Interludes: Interludes
+		}
+
+		CorruptionSurface: {
+			Label: Corruption Surface
+			Tooltip: Replaces the Corruption Surface music with Rotten Forest by Sakuzyo
+		}
+
+		CrimsonSurface: {
+			Label: Crimson Surface
+			Tooltip: Replaces the Crimson Surface music with Rotten Forest by Sakuzyo
+		}
+
+		Plantera: {
+			Label: Plantera
+			Tooltip: Replaces Plantera's music with Neurotoxin by Sakuzyo
+		}
+
+		MutantInterlude: {
+			Label: Mutant Interlude
+			Tooltip:
+				'''
+				Plays Axion by Sakuzyo after beating Mutant for the first time
+				This does nothing if you don't have Fargo's Soul Mod enabled
+				'''
+		}
+
+		SoulofEternityInterlude: {
+			Label: Soul of Eternity Interlude
+			Tooltip:
+				'''
+				Plays End of Story by Sakuzyo when you have the Soul of Eternity equiped and there are no bosses or events
+				This does nothing if you don't have Fargo's Soul Mod enabled
+				'''
+		}
+
+		Temple: {
+			Label: Temple
+			Tooltip: Replaces the Jungle Temple music with Star Of The Show from Pressure
+		}
+
+		ForestDay: {
+			Label: Forest
+			Tooltip: Replaces the Forest Day music with Weavers by Sakuzyo
+		}
+
+		Jungle: {
+			Label: Jungle
+			Tooltip: Replaces the Jungle music with Marshland by Sakuzyo
+		}
+
+		Space: {
+			Label: Space
+			Tooltip: Replaces the Space music with Floating by Sakuzyo
+		}
+
+		TownDay: {
+			Label: Town Day
+			Tooltip: Replaces the Town Day music with Safe Haven from FINAL FANTASY XV
+		}
+
+		TownNight: {
+			Label: Town Night
+			Tooltip: Replaces the Town Night music with Safe Haven by Orvynx ft. Yoko Shimomura
+		}
+
+		Boss1: {
+			Tooltip: Replaces Boss 1 with Instinct by Sakuzyo
+			Label: Boss 1
+		}
+
+		MechBosses: {
+			Label: Mech Bosses
+			Tooltip: Replaces the Mech Boss music with War Without Reason from ULTRAKILL
+		}
+
+		ForestNight: {
+			Label: Forest Night
+			Tooltip: Replaces the Forest Day music with Unconscious by Sakuzyo
+		}
+
+		MoonLord: {
+			Label: Moon Lord
+			Tooltip: Replaces the Moon Lord music with GUARDIAN from Deltarune Chapter 4
+		}
+	}
+}

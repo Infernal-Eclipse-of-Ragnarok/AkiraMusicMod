@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+	<ItemGroup>
+	  <Folder Include="Assets\Textures\Backgrounds\" />
+	  <Folder Include="Music\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Reference Include="Daybreak">
+	    <HintPath>..\ModAssemblies\Daybreak_v1.6.2.dll</HintPath>
+	  </Reference>
+	  <Reference Include="FargowiltasSouls">
+	    <HintPath>..\ModAssemblies\FargowiltasSouls_v1.7.3.2.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<!-- References -->
+
+</Project>
