@@ -21,6 +21,7 @@ namespace AkiraIEoRMusic
 
             musicDisplay.Call("AddMusic", (short)MusicLoader.GetMusicSlot("AkiraIEoRMusic/Music/titan_battle"), "GUARDIAN", "by Toby Fox", "DELTARUNE Chapter 4");
             musicDisplay.Call("AddMusic", (short)MusicLoader.GetMusicSlot("AkiraIEoRMusic/Music/SPAWN"), "Dark Fountain (Titan Spawn)", "by fluffyhairs & Toby Fox", "");
+            musicDisplay.Call("AddMusic", (short)MusicLoader.GetMusicSlot("AkiraIEoRMusic/Music/GUARDIAN"), "GUARDIAN", "by RGredsky & Toby Fox", "");
 
             musicDisplay.Call("AddMusic", (short)MusicLoader.GetMusicSlot("AkiraIEoRMusic/Music/Axion"), "Axion", "by Sakuzyo", "Selentia");
             musicDisplay.Call("AddMusic", (short)MusicLoader.GetMusicSlot("AkiraIEoRMusic/Music/EndofStory"), "End of Story", "by Sakuzyo", "Selentia");
