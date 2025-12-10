@@ -8,7 +8,7 @@ namespace AkiraIEoRMusic.MusicEffects
     {
         public override SceneEffectPriority Priority => (SceneEffectPriority)8;
 
-        public override string MusicName => "titan_battle";
+        public override string MusicName => "GUARDIAN";
 
         public override bool Config => MusicConfig.Instance.MoonLord;
 

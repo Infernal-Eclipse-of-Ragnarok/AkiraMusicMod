@@ -1,5 +1,5 @@
-﻿using FargowiltasSouls.Content.Items.Accessories.Souls;
-using FargowiltasSouls.Content.Patreon.Volknet.Projectiles;
+﻿using FargowiltasSouls;
+using FargowiltasSouls.Content.Items.Accessories.Souls;
 using FargowiltasSouls.Core.Systems;
 using Terraria;
 using Terraria.ModLoader;
@@ -33,7 +33,7 @@ namespace AkiraIEoRMusic
             if ((num1 & num2) != 0)
                 return false;
 
-            if (NPCUtils.AnyBosses())
+            if (FargoSoulsUtil.AnyBossAlive())
                 return false;
 
             // Check accessories (slots 3–10 in armor array)
