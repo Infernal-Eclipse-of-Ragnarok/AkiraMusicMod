@@ -14,7 +14,14 @@ namespace AkiraIEoRMusic
             get => MusicLoader.GetMusicSlot(Mod, "Music/" + MusicName);
         }
 
-        public override bool IsSceneEffectActive(Player player) => Config && Active(player);
+        public override bool IsSceneEffectActive(Player player)
+        {
+            bool bossRushActive = false;
+            if (ModLoader.TryGetMod("CalamityMod", out Mod cal))
+                bossRushActive = cal.Call("GetDifficultyActive", "bossrush") is bool b && b;
+
+            return !bossRushActive && Config && Active(player);
+        }
 
         public abstract bool Active(Player player);
     }
