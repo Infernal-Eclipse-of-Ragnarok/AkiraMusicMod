@@ -1,4 +1,5 @@
-﻿using Terraria;
+﻿using AkiraIEoRMusic.Utils;
+using Terraria;
 using Terraria.ModLoader;
 
 namespace AkiraIEoRMusic.MusicEffects

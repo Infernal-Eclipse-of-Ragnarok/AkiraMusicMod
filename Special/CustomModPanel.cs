@@ -12,7 +12,7 @@ using Terraria;
 using Daybreak.Common.Features.ModPanel;
 using Daybreak.Common.Rendering;
 
-namespace AkiraIEoRMusic
+namespace AkiraIEoRMusic.Special
 {
     [Autoload(Side = ModSide.Client)]
     [ExtendsFromMod("Daybreak")]

@@ -16,6 +16,8 @@ The follwoing themes are replaced:
 	[*] Jungle Temple (Star Of The Show - NoLongerNull)
 	[*] Duke Fishron (Sewer Creature - NoLongerNull)
 	[*] Lunar Pillars (Dark Fountain (Titan Spawn) - fluffyhairs & Toby Fox)
+	[*] Bereft Vassal [Infernum Mode] (Dead Kingdom's Champion - Techhy)
+	[*] Subspace Serpent [Secrets of the Shadows] (Isolation - NightHawk22)
 	[*] Moon Lord (GAURDIAN - RGredsky & Toby Fox)
 [/list]
 

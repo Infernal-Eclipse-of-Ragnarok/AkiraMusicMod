@@ -4,7 +4,7 @@ using FargowiltasSouls.Core.Systems;
 using Terraria;
 using Terraria.ModLoader;
 
-namespace AkiraIEoRMusic
+namespace AkiraIEoRMusic.Utils
 {
     [ExtendsFromMod("FargowiltasSouls")]
     [JITWhenModsEnabled("FargowiltasSouls")]
