@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using Microsoft.Xna.Framework;
 using Terraria.ModLoader;
 using Terraria.ModLoader.Config;
 
@@ -58,14 +59,24 @@ namespace AkiraIEoRMusic
         [DefaultValue(true)]
         public bool Pillars;
 
+        [DefaultValue(false)]
+        [BackgroundColor(128, 0, 0)]
+        public bool BereftVassal;
+
+        [DefaultValue(false)]
+        [BackgroundColor(112, 41, 99)]
+        public bool SubspaceSerpent;
+
         [DefaultValue(true)]
         public bool MoonLord;
 
         [Header("Interludes")]
         [DefaultValue(true)]
+        [BackgroundColor(0, 128, 128)]
         public bool MutantInterlude;
 
         [DefaultValue(true)]
+        [BackgroundColor(0, 128, 128)]
         public bool SoulofEternityInterlude;
     }
 }

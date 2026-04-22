@@ -1,7 +1,7 @@
 ﻿using Microsoft.Xna.Framework.Graphics;
 using Terraria.ModLoader;
 
-namespace AkiraIEoRMusic
+namespace AkiraIEoRMusic.Special
 {
     // Thanks to Nycro#0001 <@!262663471189983242> for this null background which cleanly ignores vanilla's parallax mechanics
     // taken from CalamityMod source

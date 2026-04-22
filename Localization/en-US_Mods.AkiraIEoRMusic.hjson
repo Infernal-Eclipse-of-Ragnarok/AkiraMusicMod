@@ -23,7 +23,7 @@ Configs: {
 
 		Headers: {
 			Biomes: Biome Music
-			Bosses: Boss Music
+			Bosses: Boss & Event Music
 			Interludes: Interludes
 		}
 
@@ -108,6 +108,16 @@ Configs: {
 		MoonLord: {
 			Label: Moon Lord
 			Tooltip: Replaces the Moon Lord music with GUARDIAN from Deltarune Chapter 4
+		}
+
+		BereftVassal: {
+			Label: Bereft Vassal
+			Tooltip: Replaces the Bereft Vassal music with Dead Kingdom's Champion by Techhy
+		}
+
+		SubspaceSerpent: {
+			Label: Subspace Serpent
+			Tooltip: Replaces the Subspace Serpent music with Isolation by NightHawk22
 		}
 	}
 }

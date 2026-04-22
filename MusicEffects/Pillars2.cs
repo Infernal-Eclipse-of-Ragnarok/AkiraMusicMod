@@ -1,5 +1,6 @@
 ﻿using Terraria.ModLoader;
 using Terraria;
+using AkiraIEoRMusic.Utils;
 
 namespace AkiraIEoRMusic.MusicEffects
 {

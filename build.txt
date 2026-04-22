@@ -1,6 +1,6 @@
 displayName = Akira's Music Mod
 author = Akira
-version = 1.9
+version = 1.10
 side = Client
 sortAfter = UnCalamityModMusic, InfernumModeMusic, FargoAltMusicMod
-weakReferences = FargowiltasSouls, Daybreak
+weakReferences = FargowiltasSouls, Daybreak, InfernumMode, SOTS

@@ -5,7 +5,7 @@ using ReLogic.Content;
 using Terraria;
 using Terraria.ModLoader;
 
-namespace AkiraIEoRMusic
+namespace AkiraIEoRMusic.Special
 {
     public class InfernalEclipseSkyMenu : ModMenu
     {
