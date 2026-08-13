@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<!-- Import tModLoader mod properties -->
 	<Import Project="..\tModLoader.targets" />
@@ -15,8 +15,11 @@
 	  <Reference Include="Daybreak">
 	    <HintPath>..\ModAssemblies\Daybreak_v1.6.2.dll</HintPath>
 	  </Reference>
+	  <Reference Include="Fargowiltas">
+	    <HintPath>lib\Assemblies\Fargowiltas.dll</HintPath>
+	  </Reference>
 	  <Reference Include="FargowiltasSouls">
-	    <HintPath>..\ModAssemblies\FargowiltasSouls.dll</HintPath>
+	    <HintPath>lib\Assemblies\FargowiltasSouls.dll</HintPath>
 	  </Reference>
 	  <Reference Include="InfernumMode">
 	    <HintPath>..\ModAssemblies\InfernumMode_v2.0.1.30.dll</HintPath>
